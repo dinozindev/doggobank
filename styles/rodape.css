@@ -1,0 +1,16 @@
+.rodape {
+    padding-bottom: 2em;
+    text-align: center;
+    color: var(--sidebar-blue);
+    text-decoration: none;
+}
+
+.rodape__link {
+    color: var(--sidebar-blue);
+    text-decoration: none;
+}
+
+.rodape__link:hover {
+    text-decoration: underline;
+}
+
