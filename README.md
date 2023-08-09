@@ -19,7 +19,7 @@ Projeto "DoggoBank" desenvolvido durante o curso "JavaScript: trabalhando com th
 
 ## Funcionalidades
 - Atualização em tempo real da cotação das moedas dólar, iene e euro;
-- Valores das moedas em valores específicos em reais (1, 10, 100, 1000 e 10000 reais). 
+- Valores das moedas em valores específicos em reais (1, 10, 100, 1000, 10000 e 100000 reais). 
 
 
 ## Feito por:
